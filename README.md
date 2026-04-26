@@ -1,5 +1,3 @@
-<img width="280" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
 <h3 align="center">
   Welcome to Mohamed Osama's Workspace!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -7,8 +5,12 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst%20|%20AI%20Enthusiast;Machine%20Learning%20&%20RAG%20Developer;CS%20Student%20at%20Assiut%20University;Freelance%20CV%20Writer&font=Fira%20Code&center=true&width=500&height=50&color=00D4FF&vCenter=true&size=24">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Data%20Science;CS%20Student%20at%20Assiut%20University;Freelance%20CV%20Writer&font=Fira%20Code&center=true&width=500&height=50&color=00D4FF&vCenter=true&size=24">
   </a>
+</p>
+
+<p align="center">
+  <em>"Delivering end-to-end data solutions that save your time and boost efficiency, with complimentary revisions ensuring the final result perfectly matches your needs."</em>
 </p>
 
 ---
@@ -17,7 +19,7 @@
 
 - 🎓 **CS Student** at Assiut University (Junior Year).
 - 📊 **Freelance Data Analyst** specializing in turning raw data into actionable insights.
-- 🤖 Passionate about **Machine Learning**, **RAG Agents**, and **LLMs**.
+- 🧠 Deeply focused on **Data Science**, **Machine Learning**, and **LLMs**.
 - 🛠️ Tech Stack: **Python, SQL (PostgreSQL), Power BI, C# .NET**.
 - ✍️ Creative Mind behind **"Athar"** brand and a Professional **CV Optimizer**.
 
@@ -38,7 +40,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-osama10/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/mohamed-osama10" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mohamed_Osama24" target="_blank"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 </p>
 
