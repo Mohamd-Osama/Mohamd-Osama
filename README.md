@@ -50,6 +50,14 @@
 
 ---
 
+### 📁 Featured Projects
+
+- 🏢 **[Real Estate Data Analysis](#)**: Designed an end-to-end ETL pipeline using **SSIS** and built interactive **Power BI** dashboards to track marketing campaign ROI and KPIs.
+- 📈 **[Sales Prediction ML Model](#)**: Developed a machine learning model to forecast sales data, utilizing predictive analytics with **Python** and **Scikit-Learn**.
+- 🏥 **[Integrated Clinic System](#)**: Built a complete management system including financial accounting and laboratory modules using **Excel & VBA**.
+
+---
+
 ### 🤝 Connect with Me
 
 <p align="left">
@@ -69,5 +77,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Osama&show_icons=true&theme=tokyonight" alt="Mohamed's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Osama&show_icons=true&theme=tokyonight" alt="Mohamed's Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Osama&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
