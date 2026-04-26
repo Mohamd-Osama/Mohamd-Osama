@@ -15,16 +15,16 @@
 
 ---
 
-### 👨‍💻 About Me
+### 💡 About Me
 
-- 🎓 **CS Student** at Assiut University (Junior Year).
-- 📊 **Freelance Data Analyst** specializing in turning raw data into actionable insights.
-- 🧠 Deeply focused on **Data Science**, **Machine Learning**, and building **LLMs / RAG** applications.
-- 🛠️ Tech Stack: **Python, SQL (SQL Server, PostgreSQL, MySQL), Power BI, Excel, SSIS, LangChain**.
+- 📍 **CS Student** at Assiut University (Junior Year).
+- 📈 **Freelance Data Analyst** specializing in turning raw data into actionable insights.
+- 🎯 Deeply focused on **Data Science**, **Machine Learning**, and building **LLMs / RAG** applications.
+- ⚙️ Tech Stack: **Python, SQL (SQL Server, PostgreSQL, MySQL), Power BI, Excel, SSIS, LangChain**.
 
 ---
 
-### 🚀 Technical Toolbox
+### 💻 Technical Toolbox
 
 **Databases & BI Tools:** <p align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
@@ -50,15 +50,15 @@
 
 ---
 
-### 📁 Featured Projects
+### 📂 Featured Projects
 
-- 🏢 **[Real Estate Data Analysis](https://github.com/Mohamd-Osama/Real-Estate-Data-Analysis-)**: Designed an end-to-end ETL pipeline using **SSIS** and built interactive **Power BI** dashboards to track marketing campaign ROI and KPIs.
-- 🚚 **[Supply Chain Data Analysis](https://github.com/Mohamd-Osama/Supply-Chain-Data-Analysis-)**: Conducted in-depth analysis on supply chain data to optimize logistics, track inventory, and uncover operational insights.
-- 🚗 **[Road Accidents Data Analysis](https://github.com/Mohamd-Osama/Road-Accidents-Data-Analysis-)**: Analyzed road traffic accident datasets to identify trends, casualties patterns, and actionable safety metrics using data analysis and visualization.
+- 🔹 **[Real Estate Data Analysis](https://github.com/Mohamd-Osama/Real-Estate-Data-Analysis-)**: Designed an end-to-end ETL pipeline using **SSIS** and built interactive **Power BI** dashboards to track marketing campaign ROI and KPIs.
+- 🔹 **[Supply Chain Data Analysis](https://github.com/Mohamd-Osama/Supply-Chain-Data-Analysis-)**: Conducted in-depth analysis on supply chain data to optimize logistics, track inventory, and uncover operational insights.
+- 🔹 **[Road Accidents Data Analysis](https://github.com/Mohamd-Osama/Road-Accidents-Data-Analysis-)**: Analyzed road traffic accident datasets to identify trends, casualties patterns, and actionable safety metrics using data analysis and visualization.
 
 ---
 
-### 🤝 Connect with Me
+### 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-osama10/" target="_blank">
