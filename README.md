@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Data%20Scientist;CS%20Student%20at%20Assiut%20University;Freelance%20CV%20Writer&font=Fira%20Code&center=true&width=500&height=50&color=00D4FF&vCenter=true&size=24">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Data%20Scientist;CS%20Student%20at%20Assiut%20University;LLMs%20&%20RAG%20Enthusiast&font=Fira%20Code&center=true&width=500&height=50&color=00D4FF&vCenter=true&size=24">
   </a>
 </p>
 
@@ -19,9 +19,8 @@
 
 - 🎓 **CS Student** at Assiut University (Junior Year).
 - 📊 **Freelance Data Analyst** specializing in turning raw data into actionable insights.
-- 🧠 Deeply focused on **Data Science**, **Machine Learning**, and **LLMs**.
-- 🛠️ Tech Stack: **Python, SQL (PostgreSQL, MySQL), Power BI, SSIS, C# .NET**.
-- ✍️ Creative Mind behind **"Athar"** brand and a Professional **CV Optimizer**.
+- 🧠 Deeply focused on **Data Science**, **Machine Learning**, and building **LLMs / RAG** applications.
+- 🛠️ Tech Stack: **Python, SQL (SQL Server, PostgreSQL, MySQL), Power BI, Excel, SSIS, LangChain**.
 
 ---
 
@@ -33,11 +32,12 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SSIS-157A6E?style=flat-square&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 </p>
 
-**Programming & Frameworks:** <p align="left">
+**Programming & LLMs:** <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 </p>
 
 **Data Analysis & ML Libraries:** <p align="left">
@@ -59,6 +59,10 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Mohamed_Osama24" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="35" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/201128399605" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="35" alt="WhatsApp" />
   </a>
 </p>
 
