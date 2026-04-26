@@ -40,7 +40,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/mohamed-osama10" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-osama10/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mohamed_Osama24" target="_blank"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 </p>
 
