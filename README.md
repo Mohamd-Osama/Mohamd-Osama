@@ -52,9 +52,9 @@
 
 ### 📁 Featured Projects
 
-- 🏢 **[Real Estate Data Analysis](#)**: Designed an end-to-end ETL pipeline using **SSIS** and built interactive **Power BI** dashboards to track marketing campaign ROI and KPIs.
-- 📈 **[Sales Prediction ML Model](#)**: Developed a machine learning model to forecast sales data, utilizing predictive analytics with **Python** and **Scikit-Learn**.
-- 🏥 **[Integrated Clinic System](#)**: Built a complete management system including financial accounting and laboratory modules using **Excel & VBA**.
+- 🏢 **[Real Estate Data Analysis](https://github.com/Mohamd-Osama/Real-Estate-Data-Analysis-)**: Designed an end-to-end ETL pipeline using **SSIS** and built interactive **Power BI** dashboards to track marketing campaign ROI and KPIs.
+- 🚚 **[Supply Chain Data Analysis](https://github.com/Mohamd-Osama/Supply-Chain-Data-Analysis-)**: Conducted in-depth analysis on supply chain data to optimize logistics, track inventory, and uncover operational insights.
+- 🚗 **[Road Accidents Data Analysis](https://github.com/Mohamd-Osama/Road-Accidents-Data-Analysis-)**: Analyzed road traffic accident datasets to identify trends, casualties patterns, and actionable safety metrics using data analysis and visualization.
 
 ---
 
