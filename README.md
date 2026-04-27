@@ -15,18 +15,19 @@
 
 ---
 
-### 💡 About Me
+### About Me
 
-- 📍 **CS Student** at Assiut University (Junior Year).
-- 📈 **Freelance Data Analyst** focused on understanding data and turning it into practical, usable solutions.
-- 🎯 Currently building a strong foundation in **Data Science** and **Machine Learning**, while exploring **LLMs / RAG applications**.
-- ⚙️ Tech Stack: **Python, SQL (SQL Server, PostgreSQL, MySQL), Power BI, Excel, SSIS, LangChain**.
+- **CS Student** at Assiut University (Junior Year).
+- **Freelance Data Analyst** focused on understanding data and turning it into practical, usable solutions.
+- Currently building a strong foundation in **Data Science** and **Machine Learning**, while exploring **LLMs / RAG applications**.
+- Tech Stack: **Python, SQL (SQL Server, PostgreSQL, MySQL), Power BI, Excel, SSIS, LangChain**.
 
 ---
 
-### 💻 Technical Toolbox
+### What I Work With
 
-**Databases & BI Tools:** <p align="left">
+**Data & BI**
+<p align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -35,17 +36,18 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 </p>
 
-**Programming & LLMs:** <p align="left">
+**Programming & AI**
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 </p>
 
-**Data Analysis & ML Libraries:** <p align="left">
+**Data & ML Libraries**
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-3F4F75?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ---
