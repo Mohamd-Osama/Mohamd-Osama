@@ -78,7 +78,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Osama&show_icons=true&theme=tokyonight" alt="Mohamed's Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Osama&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
+
