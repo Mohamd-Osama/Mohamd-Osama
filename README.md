@@ -222,22 +222,18 @@ Power BI
 
 ## `06` — GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamd-Osama&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamd-Osama&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8" width="40%"/>
-
-</div>
-
-<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mohamd-Osama&theme=transparent&hide_border=true&ring=0284C7&fire=38BDF8&currStreakLabel=38BDF8" width="70%"/>
+<img src="./assets/github-stats.svg" width="90%" alt="GitHub Statistics"/>
+
+<br><br>
+
+<img src="./assets/github-languages.svg" width="90%" alt="Most Used Languages"/>
 
 </div>
 
+---
 ---
 
 ## `07` — Let's Connect
