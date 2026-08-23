@@ -1,112 +1,112 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6C63FF&height=180&section=header&text=Mohamed%20Osama&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20%7C%20Analytics%20%7C%20AI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:0EA5E9&height=190&section=header&text=Mohamed%20Osama&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20Data%20Engineering%20%7C%20Business%20Intelligence&descAlignY=58&descSize=17" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=650&height=45&lines=Turning+data+into+useful+insights.;Building+with+Python%2C+SQL+%26+Power+BI.;Exploring+Machine+Learning+%26+LLMs.;Always+learning%2C+building%2C+and+experimenting." alt="Typing SVG" />
-</a>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1500&color=0EA5E9&center=true&vCenter=true&width=700&height=40&lines=Turning+raw+data+into+reliable+insights.;Building+ETL+pipelines+and+analytics+solutions.;SQL+%7C+Python+%7C+Power+BI+%7C+SSIS" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About
 
-I'm **Mohamed Osama**, a Computer Science student at **Assiut University** with a strong interest in **Data Analytics, Data Science, and AI**.
+I'm **Mohamed Osama**, a Computer Science student at **Assiut University** focused on **Data Analytics, Data Engineering, and Business Intelligence**.
 
-I enjoy working across the data lifecycle — from **SQL and ETL** to **analysis, visualization, and machine learning**.
+I work with data from **extraction and transformation** to **analysis, modeling, visualization, and reporting**.
 
-Currently, I'm exploring **LLM applications and RAG systems**, while continuing to build practical projects around data and AI.
+My main interests are building reliable data workflows, writing efficient SQL, designing analytical models, and turning raw datasets into insights that can support better decisions.
 
 ```text
-Data → Transform → Analyze → Visualize → Build → Learn
+        RAW DATA
+            │
+            ▼
+     ┌─────────────┐
+     │     ETL     │
+     │ SSIS / SQL  │
+     └──────┬──────┘
+            │
+            ▼
+    ┌─────────────────┐
+    │ Data Warehouse  │
+    │  & Data Models  │
+    └────────┬────────┘
+             │
+             ▼
+    ┌─────────────────┐
+    │ Analysis & BI   │
+    │    Power BI     │
+    └────────┬────────┘
+             │
+             ▼
+         INSIGHTS
 ```
 
 ---
 
-## 🧰 Tech Stack
+## Core Stack
 
-### Data & Analytics
+### Data Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql" height="45"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="45"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="45"/>
-<img src="https://img.shields.io/badge/SSIS-157A6E?style=for-the-badge&logo=microsoft&logoColor=white" height="45"/>
+<img src="https://img.shields.io/badge/SQL%20Server-1F2937?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSIS-0369A1?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL-0EA5E9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Warehousing-334155?style=for-the-badge&logoColor=white"/>
 </p>
 
-### Python & Machine Learning
+### Data Analytics & BI
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" height="45"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="45"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=111827"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB"/>
 </p>
 
-### AI & LLMs
+### Databases
 
 <p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="45"/>
-<img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=openai&logoColor=white" height="45"/>
-<img src="https://img.shields.io/badge/RAG-5B5B5B?style=for-the-badge&logoColor=white" height="45"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+### Python & Analytics Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="42"/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy" height="42"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Selected Projects
+## What I Do
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🏠 Real Estate Analytics
+### 🔄 ETL
 
-**SSIS · SQL Server · Power BI**
-
-End-to-end analytics pipeline covering data transformation, ETL, KPI tracking, and interactive Power BI dashboards.
-
-<a href="https://github.com/Mohamd-Osama/Real-Estate-Data-Analysis-">
-View Repository →
-</a>
+Designing data pipelines to extract, clean, transform and load data into analytical systems.
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 📦 Supply Chain Analytics
+### 📊 Analytics
 
-**SQL · Python · Power BI**
-
-Exploring supply chain data to understand inventory, logistics, operational performance, and business trends.
-
-<a href="https://github.com/Mohamd-Osama/Supply-Chain-Data-Analysis-">
-View Repository →
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚗 Road Accidents Analysis
-
-**Python · Pandas · Matplotlib**
-
-Analyzing accident data to identify trends, casualty patterns, and factors related to road safety.
-
-<a href="https://github.com/Mohamd-Osama/Road-Accidents-Data-Analysis-">
-View Repository →
-</a>
+Using SQL and Python to explore data, identify patterns and generate actionable insights.
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 🤖 Exploring AI & RAG
+### 📈 BI
 
-**Python · LangChain · LLMs**
-
-Experimenting with retrieval-augmented generation, embeddings, and practical LLM-based applications.
+Building Power BI dashboards and analytical models to communicate business performance.
 
 </td>
 </tr>
@@ -114,82 +114,94 @@ Experimenting with retrieval-augmented generation, embeddings, and practical LLM
 
 ---
 
-## 🌱 Currently Exploring
+## Featured Projects
+
+### 🏠 Real Estate Data Analysis
+
+`SSIS` `SQL Server` `Power BI`
+
+An end-to-end analytics solution covering **ETL, data transformation, KPI analysis and interactive Power BI dashboards**.
+
+**Focus:** Marketing performance · ROI · KPIs · Data Visualization
+
+→ [View Repository](https://github.com/Mohamd-Osama/Real-Estate-Data-Analysis-)
+
+---
+
+### 📦 Supply Chain Data Analysis
+
+`SQL` `Python` `Power BI`
+
+Analyzed supply chain data to understand **inventory, logistics and operational performance**, transforming raw data into business-focused insights.
+
+**Focus:** Supply Chain · Inventory · Logistics · Business Analysis
+
+→ [View Repository](https://github.com/Mohamd-Osama/Supply-Chain-Data-Analysis-)
+
+---
+
+### 🚗 Road Accidents Data Analysis
+
+`Python` `Pandas` `Matplotlib`
+
+Explored road accident datasets to identify **trends, casualty patterns and factors related to accident severity**.
+
+**Focus:** Data Cleaning · EDA · Visualization · Pattern Analysis
+
+→ [View Repository](https://github.com/Mohamd-Osama/Road-Accidents-Data-Analysis-)
+
+---
+
+## Currently Learning
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   Machine Learning        ████████████░░   80%       │
-│   Data Science            ███████████░░░   75%       │
-│   LLM Applications        █████████░░░░░   65%       │
-│   RAG & Embeddings        ████████░░░░░░   60%       │
-│   Data Engineering        █████████░░░░░   65%       │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+Data Engineering
+├── Advanced SQL
+├── ETL & Data Pipelines
+├── Data Warehousing
+└── Dimensional Modeling
+
+Data Analytics
+├── Advanced Power BI
+├── DAX
+├── Business Intelligence
+└── Data Storytelling
+
+Exploring
+├── Machine Learning
+└── LLM Applications
 ```
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamd-Osama&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamd-Osama&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=0369A1&icon_color=0369A1" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamd-Osama&layout=compact&hide_border=true&theme=transparent" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mohamd-Osama&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamd-Osama&layout=compact&hide_border=true&theme=transparent&title_color=0369A1" height="165"/>
 
 </div>
 
 ---
 
-## 🐍 A Little GitHub Motion
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mohamd-Osama/Mohamd-Osama/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
+### Let's build something useful with data.
 
 <a href="https://www.linkedin.com/in/mohamed-osama10/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0369A1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://mo-osama.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/Mohamd-Osama">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://t.me/Mohamed_Osama24">
-<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="https://wa.me/201128399605">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `Data → Insight → Action`
-
-*Building one project at a time.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0078D4&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=90&section=footer"/>
 
 </div>
