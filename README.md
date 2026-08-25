@@ -1,42 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0284C7&height=190&section=header&text=Mohamed%20Osama&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DATA%20ANALYTICS%20%7C%20DATA%20ENGINEERING%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0284C7&height=180&section=header&text=Mohamed%20Osama&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DATA%20ANALYTICS%20%7C%20DATA%20ENGINEERING%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=58&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=SQL+%7C+Python+%7C+Power+BI+%7C+SSIS;Data+Analysis+%7C+ETL+%7C+Data+Modeling;Building+Data+Pipelines+%26+BI+Solutions" alt="Typing SVG"/>
+### Data Analytics · Data Engineering · Business Intelligence
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Mohamd-Osama&label=Profile%20Views&color=0284C7&style=flat-square"/>
- 
-<img src="https://img.shields.io/github/followers/Mohamd-Osama?label=Followers&style=flat-square&color=075985"/>
+**SQL • Python • Power BI • SSIS • Data Warehousing**
 
 </div>
 
 ---
 
-## 👋 About Me
+## `01` — About Me
 
-Hi, I'm **Mohamed Osama**, a Computer Science student at **Assiut University** focused on:
+Hi, I'm **Mohamed Osama**, a Computer Science student at **Assiut University** focused on **Data Analytics, Data Engineering, and Business Intelligence**.
 
-**Data Analytics · Data Engineering · Business Intelligence**
+I enjoy building end-to-end data solutions — from **ETL and data warehousing** to **analysis, data modeling, and interactive BI dashboards**.
 
-I enjoy turning raw data into useful insights through **ETL pipelines, data warehousing, SQL analysis, data modeling, and interactive BI dashboards.**
+### What I Work With
 
-🔹 **SQL** — Advanced Queries · CTEs · Window Functions
-🔹 **SSIS** — ETL · Data Integration
-🔹 **SQL Server** — Data Warehousing · Database Design
-🔹 **Python** — Data Analysis · Automation
-🔹 **Power BI** — DAX · Data Modeling · Dashboards
+* **SQL** — Advanced Queries, CTEs, Window Functions
+* **SSIS** — ETL & Data Integration
+* **SQL Server** — Data Warehousing & Database Design
+* **Python** — Data Analysis & Automation
+* **Power BI** — DAX, Data Modeling & Dashboards
 
-> 🚀 Currently exploring **Microsoft Fabric, Dimensional Modeling, Data Warehousing & Machine Learning**
+Currently exploring **Microsoft Fabric, Dimensional Modeling, Data Warehousing, and Machine Learning**.
 
 ---
 
-## 🛠️ Tech Stack
+## `02` — Data Workflow
+
+```text
+     DATA SOURCES
+   CSV • Excel • DB
+          │
+          ▼
+     ETL / CLEANING
+      SSIS • SQL
+          │
+          ▼
+     DATA WAREHOUSE
+       SQL Server
+          │
+          ▼
+     DATA MODELING
+      Fact • Dim
+          │
+          ▼
+       ANALYSIS
+   SQL • Python • DAX
+          │
+          ▼
+     BUSINESS INTELLIGENCE
+          Power BI
+```
+
+---
+
+## `03` — Tech Stack
 
 <div align="center">
 
-**Data Engineering**
+### Data Engineering
 
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
@@ -45,7 +70,7 @@ I enjoy turning raw data into useful insights through **ETL pipelines, data ware
 
 <br><br>
 
-**Analytics & Business Intelligence**
+### Analytics & BI
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827"/>
 <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logoColor=white"/>
@@ -54,7 +79,7 @@ I enjoy turning raw data into useful insights through **ETL pipelines, data ware
 
 <br><br>
 
-**Python & Data Science**
+### Python & Data Science
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -66,143 +91,57 @@ I enjoy turning raw data into useful insights through **ETL pipelines, data ware
 
 ---
 
-## 🔄 Data Workflow
-
-<div align="center">
-
-```text
-┌───────────────┐
-│  DATA SOURCES │
-│ CSV • Excel   │
-│ Databases     │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│ ETL & CLEANING│
-│ SSIS • SQL    │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│ DATA WAREHOUSE│
-│   SQL Server  │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│ DATA MODELING │
-│ Fact • Dim    │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│    ANALYSIS   │
-│ SQL • Python  │
-│     • DAX     │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│      BI       │
-│   Power BI    │
-└───────────────┘
-```
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## `04` — Featured Projects
 
 ### 🏠 Real Estate Analytics
 
 **SSIS · SQL Server · Power BI**
 
-End-to-end analytics solution covering ETL, data preparation, SQL analysis, KPIs and BI reporting.
+End-to-end real estate analytics project covering **ETL, data preparation, SQL analysis, KPIs, and Power BI reporting**.
 
-`ETL` `SQL Server` `Power BI`
+`ETL` `SQL Server` `Data Analysis` `Power BI`
 
-<br>
+[View Repository](https://github.com/Mohamd-Osama/Real-Estate-Data-Analysis-)
 
-<a href="https://github.com/Mohamd-Osama/Real-Estate-Data-Analysis-">
-<img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 📦 Supply Chain Analytics
 
 **SQL · Python · Power BI**
 
-Business analysis of inventory, logistics and operational performance.
+Analysis of supply chain data focusing on **inventory, logistics, operational performance, and business insights**.
 
-`SQL` `Python` `EDA`
+`SQL` `Python` `EDA` `Business Analytics`
 
-<br>
+[View Repository](https://github.com/Mohamd-Osama/Supply-Chain-Data-Analysis-)
 
-<a href="https://github.com/Mohamd-Osama/Supply-Chain-Data-Analysis-">
-<img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🚗 Road Accidents Analysis
 
 **Python · Pandas · Matplotlib**
 
-Exploratory analysis identifying accident trends, casualty patterns and severity factors.
+Exploratory analysis of road accident data to identify **trends, casualty patterns, and factors related to accident severity**.
 
-`EDA` `Visualization` `Data Cleaning`
+`Data Cleaning` `EDA` `Visualization` `Pattern Analysis`
 
-<br>
-
-<a href="https://github.com/Mohamd-Osama/Road-Accidents-Data-Analysis-">
-<img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Data Engineering
-
-**ETL · Warehousing · BI**
-
-Building data solutions around the complete analytics lifecycle.
-
-```text
-Source → ETL → Warehouse
-              ↓
-          Fact / Dim
-              ↓
-          Power BI
-```
-
-</td>
-</tr>
-</table>
+[View Repository](https://github.com/Mohamd-Osama/Road-Accidents-Data-Analysis-)
 
 ---
 
-## 📚 Currently Exploring
+## `05` — Currently Exploring
 
-<div align="center">
-
-`Microsoft Fabric` · `OneLake` · `Lakehouse`
-`Dimensional Modeling` · `Data Warehousing`
-`Advanced SQL` · `DAX` · `Machine Learning`
-
-</div>
+| Area                 | Focus                                              |
+| -------------------- | -------------------------------------------------- |
+| **Data Engineering** | ETL · Data Warehousing · Dimensional Modeling      |
+| **SQL**              | Advanced Queries · Window Functions · Optimization |
+| **Power BI**         | DAX · Data Modeling · Dashboard Design             |
+| **Microsoft Fabric** | OneLake · Lakehouse · Warehouse · Pipelines        |
+| **Python**           | Pandas · NumPy · Machine Learning                  |
 
 ---
 
-## 📊 GitHub Activity
+## `06` — GitHub Stats
 
 <div align="center">
 
@@ -210,15 +149,11 @@ Source → ETL → Warehouse
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamd-Osama&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" width="40%"/>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Mohamd-Osama&theme=dark&hide_border=true&background=0F172A&ring=0284C7&fire=38BDF8&currStreakLabel=38BDF8" width="70%"/>
-
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## `07` — Let's Connect
 
 <div align="center">
 
